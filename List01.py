@@ -1,4 +1,4 @@
-def main(fruits):
+def main():
     """
     Return an empty list to the result.
     Args:
@@ -8,4 +8,4 @@ def main(fruits):
     """
     return []
 
-print(main('fruits'))
+print(main())
