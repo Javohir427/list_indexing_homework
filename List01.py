@@ -1,4 +1,4 @@
-def main():
+def main(fruits):
     """
     Return an empty list to the result.
     Args:
@@ -6,4 +6,6 @@ def main():
     Returns:
         list: return answer
     """
-    return
+    return []
+
+print(main('fruits'))
