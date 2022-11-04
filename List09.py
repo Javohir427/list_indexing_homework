@@ -15,5 +15,5 @@ def main(list1):
         i+=1
     return x
 
-print(main([0, 0, 0, 0, 0])) 
+print(main([0, 0, 0, 0, 0]))  
 
