@@ -8,4 +8,4 @@ def main(list1):
     """
    
     return list1[len(list1)-1]
-print(main([1, 2, 3, 4, 5]))
+print(main([1, 2, 3, 4, 5]))  
