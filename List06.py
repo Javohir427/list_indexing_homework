@@ -10,9 +10,17 @@ def main(list1):
     
     while i<len(list1):
         if list1[i] == 1:
-            list1[i]=True
-            i+=1
-        return list1
+             list1[i]=True
+        else :
+            list1[i]=0
+        i+=1
+
+       
+       
+    
+
+           
+    return list1
 
 
 
